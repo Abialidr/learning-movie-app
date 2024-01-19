@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/movie-app-learning/static/css/main.3f7bc22c.css",
+    "main.js": "/movie-app-learning/static/js/main.30f70aad.js",
+    "static/media/boxicons.svg": "/movie-app-learning/static/media/boxicons.045b05bf2dc119267a90.svg",
+    "static/media/footer-bg.jpg": "/movie-app-learning/static/media/footer-bg.67e95f05e76a8cebf7e2.jpg",
+    "static/media/boxicons.eot": "/movie-app-learning/static/media/boxicons.092b78589f3f53e60030.eot",
+    "static/media/boxicons.woff": "/movie-app-learning/static/media/boxicons.0f4528cf3c75a4b361c0.woff",
+    "static/media/boxicons.ttf": "/movie-app-learning/static/media/boxicons.cbd149c55e2396cb52e7.ttf",
+    "static/media/boxicons.woff2": "/movie-app-learning/static/media/boxicons.8d765747a5588f36ff61.woff2",
+    "index.html": "/movie-app-learning/index.html",
+    "main.3f7bc22c.css.map": "/movie-app-learning/static/css/main.3f7bc22c.css.map",
+    "main.30f70aad.js.map": "/movie-app-learning/static/js/main.30f70aad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f7bc22c.css",
+    "static/js/main.30f70aad.js"
+  ]
+}
